@@ -1,0 +1,15 @@
+# Sécurité : Ignorer les clés API
+.env
+
+# Système : Ignorer les dossiers python et caches
+__pycache__/
+*.pyc
+
+# Environnement virtuel : Ignorer le dossier venv
+venv/
+.venv/
+env/
+
+# IDE : Ignorer les fichiers de configuration VS Code/Mac
+.vscode/
+.DS_Store
